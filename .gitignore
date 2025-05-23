@@ -1,0 +1,34 @@
+# 🔒 대용량 모델 및 데이터 파일 제외
+housing_v1.pkl
+tfidf_vect.pkl
+lr_v1.pkl
+intro_ml_with_python_2nd_revised-main/data.tar.gz
+intro_ml_with_python_2nd_revised-main/data/aclImdb_v1.tar.gz
+
+# 🗂️ 데이터셋 디렉토리 제외
+aclImdb/
+
+# ⚙️ 도구 파일 제외
+bfg-1.15.0.jar
+
+# 💻 VSCode 설정 파일
+.vscode/
+
+# 🧪 가상환경 및 캐시
+env/
+venv/
+.myenv/
+__pycache__/
+*.pyc
+
+# 📦 Python 패키지 빌드 파일
+*.egg-info/
+*.egg
+*.whl
+dist/
+build/
+
+# 💾 로그, 캐시, 기타 시스템 파일
+*.log
+.DS_Store
+*.swp
